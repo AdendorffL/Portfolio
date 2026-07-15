@@ -22,11 +22,11 @@ const projects = {
     },
 
     project3: {
-        title: "Console Contact Book",
-        description: "A simple contact book application built using JavaScript. Allows users to add, edit, view, and delete contacts, with data persisted via JSON to local storage.",
-        github: "https://github.com/AdendorffL/Mini-Project-Console-Contact-Book",
-        image: "./assets/images/projects/console-contact-book.png",
-        stack: ["JavaScript", "JSON"],
+        title: "Performance Dashboard",
+        description: "A simple Sales Rep Performance Dashboard that cleans raw data dynamically and displays the data in various ways with live filtering and searching capabilities.",
+        github: "https://github.com/AdendorffL/sales-rep-performance-dashboard",
+        image: "./assets/images/projects/performance-dashboard.png",
+        stack: ["JavaScript", "CSS", "HTML"],
         live: null
     }
     
